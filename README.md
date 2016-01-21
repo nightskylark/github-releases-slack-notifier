@@ -1,6 +1,6 @@
 # github-releases-slack-notifier
 
-This module is a simple Slackbot that post a notification to a Slack group channel when new releases for one of configured GitHub repositories released new version.
+This module is a simple Slackbot that post a notification to a Slack group channel when new releases for one of configured GitHub repositories.
 
 Implementation of this module uses [rss-slack-integration](https://www.npmjs.com/package/rss-slack-integration)
 
