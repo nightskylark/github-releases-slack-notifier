@@ -1,0 +1,27 @@
+{
+	"name": "github-releases-slack-notifier",
+	"version: "1.0",
+	"description": "Slack bot that notify about new releases for GitHub repositories",
+	"keywords": [ "slack", "bot", "slackbot", "notify", "notifier", "check", "checker", "github", "repository", "repo", "release", "releases", "update", "updates" ]
+	"dependencies": {
+		"rss-slack-integration": "latest"
+	},
+	"bugs": {
+		"url": "https://github.com/nightskylark/github-releases-slack-notifier/issues",
+		"email" : "eugen@skyness.me"
+	},
+	"license": {
+		"type": "MIT",
+		"url": "http://www.opensource.org/licenses/mit-license.php"
+	},
+	"author": {
+		"name" : "Evgeny Zhavoronkov",
+		"email" : "eugen@skyness.me",
+		"url" : "http://skyness.me"
+	},
+	"files": [ "index.js", "config.json.template", "repos.json.template" ],
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/nightskylark/github-releases-slack-notifier.git"
+	}
+}
