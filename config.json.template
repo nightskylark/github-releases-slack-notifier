@@ -1,0 +1,5 @@
+{
+	"webhookUrl": "https://hooks.slack.com/services/yourservicehash",
+	"icon": ":loudspeaker:",
+	"interval": 3600
+}
