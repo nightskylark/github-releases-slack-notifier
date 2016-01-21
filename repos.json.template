@@ -1,0 +1,10 @@
+[
+	{
+		"url": "https://github.com/jquery/jquery",
+		"name": "jQuery",
+		"webhookUrl": "https://hooks.slack.com/services/yourservicehash",
+		"icon": "https://example.com/icon.png",
+		"interval": 1800,
+		"botName" : "jQuery releases"
+	}
+]
