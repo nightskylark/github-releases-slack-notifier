@@ -1,6 +1,6 @@
 {
 	"name": "github-releases-slack-notifier",
-	"version: "1.0",
+	"version": "1.0.0",
 	"description": "Slack bot that notify about new releases for GitHub repositories",
 	"keywords": [ "slack", "bot", "slackbot", "notify", "notifier", "check", "checker", "github", "repository", "repo", "release", "releases", "update", "updates" ]
 	"dependencies": {
