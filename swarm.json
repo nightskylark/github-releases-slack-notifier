@@ -1,0 +1,8 @@
+{
+  "name": "repobot",
+  "components": {
+    "repobot": {
+      "image": "registry.giantswarm.io/giantswarm/repobot:0.1"
+    }
+  }
+}
